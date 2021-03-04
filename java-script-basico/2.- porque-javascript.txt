@@ -1,0 +1,16 @@
+Los 3 lenguajes estandares
+HTML CSS JavaScript
+
+WebAssembly
+
+Desarrollo Web.....
+React angular v.js .........
+
+Desarrollo de apps
+React Native
+Electron
+
+Existen dos partes del desarrollo web
+Back-end LOGICA / IOT Internet of Things NODE js
+Front-end DESEÑO 
+

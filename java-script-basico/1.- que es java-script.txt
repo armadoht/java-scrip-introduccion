@@ -1,0 +1,41 @@
+¿Qué es JavaScript?
+*Es un lenguaje de progamacón, interpretado, o compilado (just-in-time) como 
+funciones de primer clase.
+*Conocido como lenguaje de scripting para páginas web y usado en muchos 
+entornos feura del navegador tal como Node.js Apache CouchDB y Adobe Acrobat.
+
+JavaScript es un lenguaje de programación basados en prototipos, multiparadigma,
+de un solo hilo, dinamico con soporte para programación orientada a objetos 
+imperativa y declarativa.
+
+Nace por la necesidad de interactuar se buelven dinamicas las paginas web.
+Es un lenguaje interpretado, orientado a objetos, débilmente tipado y dinámico.
+
+Debilmente tipado ejemplo
+
+4 + "7"; //47
+4 * "7";//28
+2+ true;
+false -3;
+
+JavaScript es un lenguaje Dinamicos
+JS  ------>   Compile time ------> Runetime 
+
+¿Realmente es un lenguaje Interpretado?
+SI
+1.-Descarga el codigo
+2.-Crea un arbol
+3.-Complila el codigo interpreta
+4.- Final
+
+
+Forwards
+Ser compatible con versiones futuras significa que incluir una adición al
+lenguaje en un programa no causaría que se rompa si se ejecuta en un motor js
+js anterior. Js no es compatible con versiones futuras.
+
+Js es Backwards compatible
+La compatibilidad con versiones anteriores
+significa que cuando se acepta como js válido, no habrá
+un cambiofuturo que haga que el código deje de funcionar.
+
